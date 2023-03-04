@@ -117,6 +117,7 @@ a {
     border: 2px solid var(--main-color);
     color: white;
     transition-delay: var(--title-animation-time);
+    curser: pointer ; 
 }
 
 /* end main title -----------------------------  */
